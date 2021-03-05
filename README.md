@@ -21,7 +21,7 @@ For full functionality, make sure you have:
 
 
 ## Demo 
-The demonstration of the Front End along with a technical exaplanation of the code can be found ![here](https://www.youtube.com/watch?v=cbiZjgtAX3Q&list=PLJFfr9lUAXsx8umo_oig5vdqx-ai3LFr4)
+The demonstration of the Front End along with a technical exaplanation of the code can be found [here](https://www.youtube.com/watch?v=cbiZjgtAX3Q&list=PLJFfr9lUAXsx8umo_oig5vdqx-ai3LFr4)
 
 
 
